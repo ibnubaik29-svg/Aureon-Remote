@@ -1,8 +1,10 @@
 {
   "apiBaseUrl": "http://papa.queen-official.com:2070",
   "wsBaseUrl": "ws://papa.queen-official.com:2070",
-  "apkBaseUrl": "https://github.com/ibnubaik29-svg/Aureon-Remote/releases/download/v1.0.1/aureon-1.0.1.apk",
   "appVersion": "1.0.0",
+  "apkDownloadUrl": "https://github.com/ibnubaik29-svg/Aureon-Remote/releases/download/v1.0.0/aureon-1.0.0.apk",
+  "apkForceUpdate": false,
+  "minSupportedVersion": "1.0.0",
   "releaseNotes": [
     "Reaction emoji untuk semua pesan & story",
     "Sistem vote interaktif di grup & channel",
