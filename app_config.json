@@ -5,9 +5,14 @@
   "apkBaseUrl": "https://github.com/ibnubaik29-svg/Aureon-Remote/releases/download",
   "apkForceUpdate": false,
   "minSupportedVersion": "1.0.0",
+
+  "officialStoryUsername": "Aureon",
+  "officialStoryBadge": "OFFICIAL",
+
   "releaseNotes": [
     "Perbaikan notifikasi FCM",
-    "Blue check & follow"
+    "Blue check & follow",
+    "System story dari akun official"
   ],
   "firebase": {
     "enabled": true,
