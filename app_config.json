@@ -1,7 +1,7 @@
 {
   "apiBaseUrl": "http://papa.queen-official.com:2070",
   "wsBaseUrl": "ws://papa.queen-official.com:2070",
-  "appVersion": "1.0.1",
+  "appVersion": "1.0.0",
   "apkBaseUrl": "https://github.com/ibnubaik29-svg/Aureon-Remote/releases/download",
   "apkForceUpdate": false,
   "minSupportedVersion": "1.0.0",
